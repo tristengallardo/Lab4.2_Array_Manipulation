@@ -9,7 +9,7 @@ Array methods such as push() and filter() helped me manipulate data in this acti
 
 ## What challenges did you face when trying to filter and search for items in the array?
 
-A challegne I faced when trying to filter and search for items in the array was makign sure both functions worked correctly. It took mewheile to understand that a for statement was needed for the fucntion to work.
+A challegne I faced when trying to filter and search for items in the array was making sure both functions worked correctly. It took me awhile to understand that a for statement was needed for the function to work.
 
 
 ## How would you modify this code to make it more efficient or user-friendly?
